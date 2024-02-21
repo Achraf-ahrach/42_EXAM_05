@@ -23,10 +23,10 @@ class   Warlock
         const std::string&  getTitle() const;
 
         /*  Setters */
-        void              setTitle( std::string const& _title );
+        void    setTitle( std::string const& _title );
 
         /*  Methods */
-        void              introduce() const;
+        void    introduce() const;
 };
 
 #endif

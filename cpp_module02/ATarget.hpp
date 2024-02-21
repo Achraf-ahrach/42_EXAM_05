@@ -1,7 +1,6 @@
 #ifndef ATARGET_HPP
 #define ATARGET_HPP
 
-#include <string>
 #include <iostream>
 #include "ASpell.hpp"
 

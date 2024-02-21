@@ -4,6 +4,7 @@ Dummy::Dummy()
 {
     type = "Target Practice Dummy";
 }
+
 Dummy::~Dummy()
 {}
 

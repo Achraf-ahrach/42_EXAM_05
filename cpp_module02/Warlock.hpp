@@ -4,7 +4,6 @@
 #include "ASpell.hpp"
 #include "ATarget.hpp"
 #include "SpellBook.hpp"
-#include <string>
 #include <iostream>
 #include <map>
 
@@ -14,6 +13,7 @@ class   Warlock
         std::string     name;
         std::string     title;
         SpellBook       spellBook;
+
         /*  Pivate constructors */
         Warlock();
         Warlock( Warlock const& other );

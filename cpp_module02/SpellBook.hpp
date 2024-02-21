@@ -1,7 +1,7 @@
 #ifndef SPELLBOOK_HPP
 #define SPELLBOOK_HPP
 
-#include <string>
+// #include <string>
 #include <iostream>
 #include "ASpell.hpp"
 #include "ATarget.hpp"

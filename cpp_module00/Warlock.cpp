@@ -29,6 +29,7 @@ const std::string& Warlock::getName() const
 {
     return name;
 }
+
 const std::string& Warlock::getTitle() const
 {
     return title;
